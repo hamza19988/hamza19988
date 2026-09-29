@@ -4,7 +4,7 @@
 <br/>
 
 <p align="center">
-  <a href="mailto:hamzaabidi1998@gmail.com">
+  <a href="mailto:abidihamza241@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/hamza19988">
@@ -22,7 +22,7 @@ I'm a full-stack developer who loves building **original ideas** — from AI-pow
 - 🤖 Building with **LLMs & AI** — chatbots, agents, and smart applications
 - 💡 Driven by **original ideas** and practical solutions
 - 🌱 Working with **Python · TypeScript · React · Next.js · Frappe**
-- 📫 Reach me at **hamzaabidi1998@gmail.com**
+- 📫 Reach me at **abidihamza241@gmail.com**
 
 ---
 
@@ -54,4 +54,3 @@ I'm a full-stack developer who loves building **original ideas** — from AI-pow
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza19988&color=6366f1&style=flat-square&label=Profile+Views" />
-</p>
