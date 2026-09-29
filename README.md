@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hamza Abidi</h1>
-<h3 align="center">Full-Stack Developer · Building AI tools that matter</h3>
+<h3 align="center">Developer · I build things people actually use</h3>
 
 <br/>
 
@@ -16,17 +16,16 @@
 
 ### 🚀 About Me
 
-I'm a full-stack developer who loves building **original ideas** — from AI-powered tools to management systems. I ship fast and focus on things that work.
+I build apps, tools, and products — from scratch to working product. I care about shipping real things, not just writing code.
 
-- 🔭 Currently shipping **FlashMVP** — launching MVPs fast
-- 🤖 Building with **LLMs & AI** — chatbots, agents, and smart applications
-- 💡 Driven by **original ideas** and practical solutions
-- 🌱 Working with **Python · TypeScript · React · Next.js · Frappe**
-- 📫 Reach me at **abidihamza241@gmail.com**
+- 🚀 Building **FlashMVP** — helping people launch their ideas fast
+- 🤖 Working on apps that use **AI** to solve real problems
+- 💡 I like starting from an original idea and making it real
+- 📫 **abidihamza241@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ What I Work With
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +34,6 @@ I'm a full-stack developer who loves building **original ideas** — from AI-pow
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ---
 
@@ -54,3 +52,4 @@ I'm a full-stack developer who loves building **original ideas** — from AI-pow
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hamza19988&color=6366f1&style=flat-square&label=Profile+Views" />
+</p>
