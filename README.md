@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Hamza Abidi</h1>
-<h3 align="center">Developer · I build things people actually use</h3>
+<h3 align="center">I help people launch their ideas faster</h3>
 
 <br/>
 
